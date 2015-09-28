@@ -1,6 +1,6 @@
 # Spotitube
 
-/TODO 
+/TODO
 Deployment Diagram
 Package Diagram
 
